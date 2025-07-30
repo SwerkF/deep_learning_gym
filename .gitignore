@@ -2,3 +2,5 @@
 *.pth
 logs/train
 utils/*
+venv/*
+__pycache__/
